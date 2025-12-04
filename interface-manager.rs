@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\interface-manager.rs
+// Generated at: 2025-10-11T03:15:01.667Z
